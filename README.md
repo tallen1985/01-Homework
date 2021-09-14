@@ -11,4 +11,4 @@
     - Add a logical, concise title.
 
 ## Final product
-    https://tallen1985.github.io/01-Homework/#online-reputation-management
+    https://tallen1985.github.io/01-Homework/
